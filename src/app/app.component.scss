@@ -1,0 +1,14 @@
+.app-container {
+    font-family: monospace;
+    width: 30%;
+    margin: auto;
+    margin-top: 8%;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+    .buttons {
+        display: flex;
+        justify-content: space-between;
+    }
+}
